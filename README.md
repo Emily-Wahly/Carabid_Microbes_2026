@@ -1,5 +1,6 @@
 # Carabid_Microbes_2026
 The diversity and composition of carabid microbiomes compared between farms managed with conventional vs organic practices.
+Does the choice of organic or conventional agricultural management affect the alpha diversity of the gut microbiome of local Carabids? 
 
 Magagnoli, S., Alberoni, D., Baffoni, L. et al. The ground beetle Pseudoophonus rufipes gut microbiome is influenced by the farm management system. Sci Rep 12, 22638 (2022). https://doi.org/10.1038/s41598-022-25408-7 
  Bio Project No. PRJNA798890, accession numbers SAMN25144112–SAMN25144116; SAMN25144118–SAMN25144135.
